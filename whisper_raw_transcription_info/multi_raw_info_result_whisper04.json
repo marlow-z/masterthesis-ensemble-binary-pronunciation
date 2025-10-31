@@ -1,0 +1,1367 @@
+{
+    "series01-s00000-Paul-1": {
+        "studentID": "series01-s00000",
+        "word": "Paul",
+        "trueLabel": "intelligible",
+        "segments": [
+            {
+                "text and avg_logprob": [
+                    {
+                        "text": "Pong.",
+                        "avg_logprob": -1.7660961151123047
+                    },
+                    {
+                        "text": "poll",
+                        "avg_logprob": -1.4259997606277466
+                    },
+                    {
+                        "text": "Paul...",
+                        "avg_logprob": -1.862013816833496
+                    },
+                    {
+                        "text": "Phone.",
+                        "avg_logprob": -1.5129926681518555
+                    },
+                    {
+                        "text": "poll",
+                        "avg_logprob": -1.435943841934204
+                    },
+                    {
+                        "text": "Palm.",
+                        "avg_logprob": -1.4427849769592285
+                    },
+                    {
+                        "text": "poll",
+                        "avg_logprob": -1.5396134853363037
+                    },
+                    {
+                        "text": "Paul!",
+                        "avg_logprob": -1.9240808486938477
+                    },
+                    {
+                        "text": "poll",
+                        "avg_logprob": -1.3918044567108154
+                    },
+                    {
+                        "text": "poll",
+                        "avg_logprob": -1.435943841934204
+                    },
+                    {
+                        "text": "poll",
+                        "avg_logprob": -1.4259997606277466
+                    },
+                    {
+                        "text": "Poem.",
+                        "avg_logprob": -1.9295682907104492
+                    },
+                    {
+                        "text": "poll",
+                        "avg_logprob": -1.5812290906906128
+                    },
+                    {
+                        "text": "Pole.",
+                        "avg_logprob": -1.3300539016723634
+                    },
+                    {
+                        "text": "poll",
+                        "avg_logprob": -1.435943841934204
+                    },
+                    {
+                        "text": "poll",
+                        "avg_logprob": -1.3918044567108154
+                    },
+                    {
+                        "text": "poem",
+                        "avg_logprob": -1.515303611755371
+                    },
+                    {
+                        "text": "poll",
+                        "avg_logprob": -1.3918044567108154
+                    },
+                    {
+                        "text": "poll",
+                        "avg_logprob": -1.435943841934204
+                    },
+                    {
+                        "text": "poem",
+                        "avg_logprob": -1.8572046756744385
+                    }
+                ]
+            }
+        ]
+    },
+    "series01-s000012-Paul-1": {
+        "studentID": "series01-s000012",
+        "word": "Paul",
+        "trueLabel": "intelligible",
+        "segments": [
+            {
+                "text and avg_logprob": [
+                    {
+                        "text": "Vote!",
+                        "avg_logprob": -1.3183619499206543
+                    },
+                    {
+                        "text": "boat",
+                        "avg_logprob": -0.6763141751289368
+                    },
+                    {
+                        "text": "Boat!",
+                        "avg_logprob": -1.094748306274414
+                    },
+                    {
+                        "text": "boat",
+                        "avg_logprob": -0.6763141751289368
+                    },
+                    {
+                        "text": "BONE!",
+                        "avg_logprob": -1.4082471529642742
+                    },
+                    {
+                        "text": "boat",
+                        "avg_logprob": -0.6763141751289368
+                    },
+                    {
+                        "text": "Boat!",
+                        "avg_logprob": -1.1029392242431642
+                    },
+                    {
+                        "text": "boat",
+                        "avg_logprob": -0.6763141751289368
+                    },
+                    {
+                        "text": "Vote!",
+                        "avg_logprob": -1.044844913482666
+                    },
+                    {
+                        "text": "Vote!",
+                        "avg_logprob": -1.0365889549255372
+                    },
+                    {
+                        "text": "Vote!",
+                        "avg_logprob": -1.0365889549255372
+                    },
+                    {
+                        "text": "Vote!",
+                        "avg_logprob": -1.0365889549255372
+                    },
+                    {
+                        "text": "boat",
+                        "avg_logprob": -0.6763141751289368
+                    },
+                    {
+                        "text": "boat",
+                        "avg_logprob": -0.6763141751289368
+                    },
+                    {
+                        "text": "Boat!",
+                        "avg_logprob": -1.1029392242431642
+                    },
+                    {
+                        "text": "Vote!",
+                        "avg_logprob": -1.2618163108825684
+                    },
+                    {
+                        "text": "BONE.",
+                        "avg_logprob": -1.4175097147623699
+                    },
+                    {
+                        "text": "boat",
+                        "avg_logprob": -0.6763141751289368
+                    },
+                    {
+                        "text": "Boat!",
+                        "avg_logprob": -1.094748306274414
+                    },
+                    {
+                        "text": "Bowd!",
+                        "avg_logprob": -1.3808237711588542
+                    }
+                ]
+            }
+        ]
+    },
+    "series01-s000013b-Paul-0": {
+        "studentID": "series01-s000013b",
+        "word": "Paul",
+        "trueLabel": "unintelligible",
+        "segments": [
+            {
+                "text and avg_logprob": [
+                    {
+                        "text": "Power.",
+                        "avg_logprob": -1.5527432441711426
+                    },
+                    {
+                        "text": "Power!",
+                        "avg_logprob": -1.7489351272583007
+                    },
+                    {
+                        "text": "Power.",
+                        "avg_logprob": -1.5295512199401855
+                    },
+                    {
+                        "text": "Power.",
+                        "avg_logprob": -1.6424028396606445
+                    },
+                    {
+                        "text": "Power!",
+                        "avg_logprob": -1.4106754302978515
+                    },
+                    {
+                        "text": "Power.",
+                        "avg_logprob": -1.5739612579345703
+                    },
+                    {
+                        "text": "Power.",
+                        "avg_logprob": -1.5527432441711426
+                    },
+                    {
+                        "text": "Power!",
+                        "avg_logprob": -1.4106754302978515
+                    },
+                    {
+                        "text": "Power.",
+                        "avg_logprob": -1.6779935836791993
+                    },
+                    {
+                        "text": "Power!",
+                        "avg_logprob": -1.4106754302978515
+                    },
+                    {
+                        "text": "TOWARD",
+                        "avg_logprob": -1.3381226857503254
+                    },
+                    {
+                        "text": "Power",
+                        "avg_logprob": -1.4934135675430298
+                    },
+                    {
+                        "text": "BOUGHT!",
+                        "avg_logprob": -1.4100756645202637
+                    },
+                    {
+                        "text": "TOWED",
+                        "avg_logprob": -1.4977378845214844
+                    },
+                    {
+                        "text": "Power.",
+                        "avg_logprob": -1.611154556274414
+                    },
+                    {
+                        "text": "Found",
+                        "avg_logprob": -1.3362970352172852
+                    },
+                    {
+                        "text": "Power!",
+                        "avg_logprob": -1.4106754302978515
+                    },
+                    {
+                        "text": "TOWARD",
+                        "avg_logprob": -1.3381226857503254
+                    },
+                    {
+                        "text": "power",
+                        "avg_logprob": -1.8006083965301514
+                    },
+                    {
+                        "text": "Power.",
+                        "avg_logprob": -1.5739612579345703
+                    }
+                ]
+            }
+        ]
+    },
+    "series01-s000017-Paul-0": {
+        "studentID": "series01-s000017",
+        "word": "Paul",
+        "trueLabel": "unintelligible",
+        "segments": [
+            {
+                "text and avg_logprob": [
+                    {
+                        "text": "Bye!",
+                        "avg_logprob": -1.0168888092041015
+                    },
+                    {
+                        "text": "Pooh.",
+                        "avg_logprob": -1.4080532391866047
+                    },
+                    {
+                        "text": "bye",
+                        "avg_logprob": -1.953220009803772
+                    },
+                    {
+                        "text": "Bye!",
+                        "avg_logprob": -1.0168888092041015
+                    },
+                    {
+                        "text": "Bye!",
+                        "avg_logprob": -1.0168888092041015
+                    },
+                    {
+                        "text": "bye",
+                        "avg_logprob": -1.2480382919311523
+                    },
+                    {
+                        "text": "Bye!",
+                        "avg_logprob": -1.0168888092041015
+                    },
+                    {
+                        "text": "Bye!",
+                        "avg_logprob": -1.5586402893066407
+                    },
+                    {
+                        "text": "Bye!",
+                        "avg_logprob": -1.1785286903381347
+                    },
+                    {
+                        "text": "Bye!",
+                        "avg_logprob": -1.1213299751281738
+                    },
+                    {
+                        "text": "Bye!",
+                        "avg_logprob": -1.0168888092041015
+                    },
+                    {
+                        "text": "Bye!",
+                        "avg_logprob": -1.0168888092041015
+                    },
+                    {
+                        "text": "Bye.",
+                        "avg_logprob": -1.2236905097961426
+                    },
+                    {
+                        "text": "Bye!",
+                        "avg_logprob": -1.0168888092041015
+                    },
+                    {
+                        "text": "Bye!",
+                        "avg_logprob": -1.1213299751281738
+                    },
+                    {
+                        "text": "Bye.",
+                        "avg_logprob": -1.1274170875549316
+                    },
+                    {
+                        "text": "Bye!",
+                        "avg_logprob": -1.0168888092041015
+                    },
+                    {
+                        "text": "Bye.",
+                        "avg_logprob": -1.1146875381469727
+                    },
+                    {
+                        "text": "Bye!",
+                        "avg_logprob": -1.0168888092041015
+                    },
+                    {
+                        "text": "Bye!",
+                        "avg_logprob": -1.0168888092041015
+                    }
+                ]
+            }
+        ]
+    },
+    "series01-s000021-Paul-0": {
+        "studentID": "series01-s000021",
+        "word": "Paul",
+        "trueLabel": "unintelligible",
+        "segments": [
+            {
+                "text and avg_logprob": [
+                    {
+                        "text": "Pull.",
+                        "avg_logprob": -0.9590945243835449
+                    },
+                    {
+                        "text": "I love you.",
+                        "avg_logprob": -1.8901051112583704
+                    },
+                    {
+                        "text": "Oh.",
+                        "avg_logprob": -1.1122072219848633
+                    },
+                    {
+                        "text": "Hold.",
+                        "avg_logprob": -1.4967589378356934
+                    },
+                    {
+                        "text": "Oh.",
+                        "avg_logprob": -1.327015495300293
+                    },
+                    {
+                        "text": "Oh.",
+                        "avg_logprob": -1.2929219245910644
+                    },
+                    {
+                        "text": "Hold.",
+                        "avg_logprob": -1.049341869354248
+                    },
+                    {
+                        "text": "Oh.",
+                        "avg_logprob": -1.1122072219848633
+                    },
+                    {
+                        "text": "Pull.",
+                        "avg_logprob": -0.9590945243835449
+                    },
+                    {
+                        "text": "Oh.",
+                        "avg_logprob": -1.1122072219848633
+                    },
+                    {
+                        "text": "Pull.",
+                        "avg_logprob": -0.9590945243835449
+                    },
+                    {
+                        "text": "Hold.",
+                        "avg_logprob": -1.049341869354248
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.99595947265625
+                    },
+                    {
+                        "text": "Pole.",
+                        "avg_logprob": -1.2489035606384278
+                    },
+                    {
+                        "text": "Hold.",
+                        "avg_logprob": -1.4105125427246095
+                    },
+                    {
+                        "text": "Pole.",
+                        "avg_logprob": -1.2489035606384278
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.99595947265625
+                    },
+                    {
+                        "text": "Oh.",
+                        "avg_logprob": -1.1122072219848633
+                    },
+                    {
+                        "text": "Oh.",
+                        "avg_logprob": -1.3192194938659667
+                    },
+                    {
+                        "text": "Oh.",
+                        "avg_logprob": -1.2296646118164063
+                    }
+                ]
+            }
+        ]
+    },
+    "series01-s000026-Paul-0": {
+        "studentID": "series01-s000026",
+        "word": "Paul",
+        "trueLabel": "unintelligible",
+        "segments": [
+            {
+                "text and avg_logprob": [
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.948121166229248
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.948121166229248
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.948121166229248
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.089144802093506
+                    },
+                    {
+                        "text": "Paul?",
+                        "avg_logprob": -1.1579274177551269
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.2625104904174804
+                    },
+                    {
+                        "text": "Paul?",
+                        "avg_logprob": -1.5811189651489257
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.264443302154541
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.1745814323425292
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.948121166229248
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.948121166229248
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.948121166229248
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.499264907836914
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.0671576499938964
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.0671576499938964
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.948121166229248
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.1811375617980957
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.171045684814453
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.0671576499938964
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.8126353263854981
+                    }
+                ]
+            }
+        ]
+    },
+    "series01-s000032-Paul-1": {
+        "studentID": "series01-s000032",
+        "word": "Paul",
+        "trueLabel": "intelligible",
+        "segments": [
+            {
+                "text and avg_logprob": [
+                    {
+                        "text": "Hello.",
+                        "avg_logprob": -1.0787781715393066
+                    },
+                    {
+                        "text": "Hello.",
+                        "avg_logprob": -0.9184731483459473
+                    },
+                    {
+                        "text": "Hello.",
+                        "avg_logprob": -0.9184731483459473
+                    },
+                    {
+                        "text": "Hello!",
+                        "avg_logprob": -1.271037769317627
+                    },
+                    {
+                        "text": "Hello.",
+                        "avg_logprob": -1.146923828125
+                    },
+                    {
+                        "text": "Hello.",
+                        "avg_logprob": -0.9184731483459473
+                    },
+                    {
+                        "text": "Hello.",
+                        "avg_logprob": -0.9184731483459473
+                    },
+                    {
+                        "text": "Hello.",
+                        "avg_logprob": -0.955833625793457
+                    },
+                    {
+                        "text": "Hello.",
+                        "avg_logprob": -0.955833625793457
+                    },
+                    {
+                        "text": "Hello!",
+                        "avg_logprob": -1.3338318824768067
+                    },
+                    {
+                        "text": "Hello.",
+                        "avg_logprob": -1.0427372932434082
+                    },
+                    {
+                        "text": "Hello.",
+                        "avg_logprob": -0.955833625793457
+                    },
+                    {
+                        "text": "Hello.",
+                        "avg_logprob": -0.9184731483459473
+                    },
+                    {
+                        "text": "Hello.",
+                        "avg_logprob": -1.4383223533630372
+                    },
+                    {
+                        "text": "Hello.",
+                        "avg_logprob": -1.1169093132019043
+                    },
+                    {
+                        "text": "Hello.",
+                        "avg_logprob": -1.0787781715393066
+                    },
+                    {
+                        "text": "Hello.",
+                        "avg_logprob": -0.9184731483459473
+                    },
+                    {
+                        "text": "hello",
+                        "avg_logprob": -1.5507957935333252
+                    },
+                    {
+                        "text": "Hello.",
+                        "avg_logprob": -0.9184731483459473
+                    },
+                    {
+                        "text": "Hello?",
+                        "avg_logprob": -1.3388251304626464
+                    }
+                ]
+            }
+        ]
+    },
+    "series01-s000036-Paul-0": {
+        "studentID": "series01-s000036",
+        "word": "Paul",
+        "trueLabel": "unintelligible",
+        "segments": [
+            {
+                "text and avg_logprob": [
+                    {
+                        "text": "found.",
+                        "avg_logprob": -1.3997867584228516
+                    },
+                    {
+                        "text": "found.",
+                        "avg_logprob": -1.0526805877685548
+                    },
+                    {
+                        "text": "found.",
+                        "avg_logprob": -1.0744336128234864
+                    },
+                    {
+                        "text": "found.",
+                        "avg_logprob": -1.2714913368225098
+                    },
+                    {
+                        "text": "found.",
+                        "avg_logprob": -1.0526805877685548
+                    },
+                    {
+                        "text": "found.",
+                        "avg_logprob": -0.9700188636779785
+                    },
+                    {
+                        "text": "found.",
+                        "avg_logprob": -0.9700188636779785
+                    },
+                    {
+                        "text": "found.",
+                        "avg_logprob": -1.1252281188964843
+                    },
+                    {
+                        "text": "found.",
+                        "avg_logprob": -0.9700188636779785
+                    },
+                    {
+                        "text": "found.",
+                        "avg_logprob": -1.0528596878051757
+                    },
+                    {
+                        "text": "found.",
+                        "avg_logprob": -1.0745874404907227
+                    },
+                    {
+                        "text": "found.",
+                        "avg_logprob": -0.9700188636779785
+                    },
+                    {
+                        "text": "found.",
+                        "avg_logprob": -1.2350265502929687
+                    },
+                    {
+                        "text": "found.",
+                        "avg_logprob": -1.2894465446472168
+                    },
+                    {
+                        "text": "found.",
+                        "avg_logprob": -0.9700188636779785
+                    },
+                    {
+                        "text": "fold",
+                        "avg_logprob": -1.2750520706176758
+                    },
+                    {
+                        "text": "found.",
+                        "avg_logprob": -1.0745874404907227
+                    },
+                    {
+                        "text": "found.",
+                        "avg_logprob": -0.9700188636779785
+                    },
+                    {
+                        "text": "fold",
+                        "avg_logprob": -1.2750520706176758
+                    },
+                    {
+                        "text": "found.",
+                        "avg_logprob": -1.0528596878051757
+                    }
+                ]
+            }
+        ]
+    },
+    "series01-s00004-Paul-0": {
+        "studentID": "series01-s00004",
+        "word": "Paul",
+        "trueLabel": "unintelligible",
+        "segments": [
+            {
+                "text and avg_logprob": [
+                    {
+                        "text": "follow.",
+                        "avg_logprob": -1.3164177894592286
+                    },
+                    {
+                        "text": "follow.",
+                        "avg_logprob": -1.160232925415039
+                    },
+                    {
+                        "text": "follow.",
+                        "avg_logprob": -1.3285584449768066
+                    },
+                    {
+                        "text": "follow.",
+                        "avg_logprob": -1.3157143592834473
+                    },
+                    {
+                        "text": "all around.",
+                        "avg_logprob": -1.555965264638265
+                    },
+                    {
+                        "text": "en la.",
+                        "avg_logprob": -2.2560415267944336
+                    },
+                    {
+                        "text": "follow.",
+                        "avg_logprob": -1.160232925415039
+                    },
+                    {
+                        "text": "follow.",
+                        "avg_logprob": -1.3028105735778808
+                    },
+                    {
+                        "text": "follow.",
+                        "avg_logprob": -1.4812779426574707
+                    },
+                    {
+                        "text": "All the...",
+                        "avg_logprob": -1.8568355242411296
+                    },
+                    {
+                        "text": "Oh",
+                        "avg_logprob": -1.2873785495758057
+                    },
+                    {
+                        "text": "follow.",
+                        "avg_logprob": -1.3164177894592286
+                    },
+                    {
+                        "text": "follow.",
+                        "avg_logprob": -1.2279994010925293
+                    },
+                    {
+                        "text": "follow.",
+                        "avg_logprob": -1.160232925415039
+                    },
+                    {
+                        "text": "follow.",
+                        "avg_logprob": -1.2279994010925293
+                    },
+                    {
+                        "text": "follow.",
+                        "avg_logprob": -1.4577017784118653
+                    },
+                    {
+                        "text": "follow.",
+                        "avg_logprob": -1.532698154449463
+                    },
+                    {
+                        "text": "follow.",
+                        "avg_logprob": -1.160232925415039
+                    },
+                    {
+                        "text": "follow.",
+                        "avg_logprob": -1.3285584449768066
+                    },
+                    {
+                        "text": "follow.",
+                        "avg_logprob": -1.160232925415039
+                    }
+                ]
+            }
+        ]
+    },
+    "series01-s000043-Paul-0": {
+        "studentID": "series01-s000043",
+        "word": "Paul",
+        "trueLabel": "unintelligible",
+        "segments": [
+            {
+                "text and avg_logprob": [
+                    {
+                        "text": "Bow in.",
+                        "avg_logprob": -1.4233264923095703
+                    },
+                    {
+                        "text": "Bowler.",
+                        "avg_logprob": -1.2388850847880046
+                    },
+                    {
+                        "text": "Bye all.",
+                        "avg_logprob": -1.5924019813537598
+                    },
+                    {
+                        "text": "Bye only.",
+                        "avg_logprob": -1.3111692269643147
+                    },
+                    {
+                        "text": "Bowler.",
+                        "avg_logprob": -1.3033297061920166
+                    },
+                    {
+                        "text": "Bowler!",
+                        "avg_logprob": -1.434016227722168
+                    },
+                    {
+                        "text": "Bowler.",
+                        "avg_logprob": -1.404410680135091
+                    },
+                    {
+                        "text": "Bowler.",
+                        "avg_logprob": -1.3033297061920166
+                    },
+                    {
+                        "text": "Bye, only.",
+                        "avg_logprob": -1.3807596479143416
+                    },
+                    {
+                        "text": "Golden.",
+                        "avg_logprob": -1.2961017608642578
+                    },
+                    {
+                        "text": "bye all",
+                        "avg_logprob": -1.3409435272216796
+                    },
+                    {
+                        "text": "Bowel",
+                        "avg_logprob": -1.1896867752075195
+                    },
+                    {
+                        "text": "Bowley.",
+                        "avg_logprob": -1.7789039611816406
+                    },
+                    {
+                        "text": "Bye all.",
+                        "avg_logprob": -1.3307072321573894
+                    },
+                    {
+                        "text": "bye only",
+                        "avg_logprob": -1.2155678749084473
+                    },
+                    {
+                        "text": "Bowler.",
+                        "avg_logprob": -1.404410680135091
+                    },
+                    {
+                        "text": "Bow in.",
+                        "avg_logprob": -1.4233264923095703
+                    },
+                    {
+                        "text": "Bowler.",
+                        "avg_logprob": -1.2388850847880046
+                    },
+                    {
+                        "text": "Bowler.",
+                        "avg_logprob": -1.2388850847880046
+                    },
+                    {
+                        "text": "Bowler.",
+                        "avg_logprob": -1.404410680135091
+                    }
+                ]
+            }
+        ]
+    },
+    "series01-s00007-Paul-1": {
+        "studentID": "series01-s00007",
+        "word": "Paul",
+        "trueLabel": "intelligible",
+        "segments": [
+            {
+                "text and avg_logprob": [
+                    {
+                        "text": "ball",
+                        "avg_logprob": -1.153275489807129
+                    },
+                    {
+                        "text": "Bye!",
+                        "avg_logprob": -1.2778493881225585
+                    },
+                    {
+                        "text": "ball",
+                        "avg_logprob": -1.2771778106689453
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.422288703918457
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.5293047904968262
+                    },
+                    {
+                        "text": "Bye.",
+                        "avg_logprob": -1.3330533027648925
+                    },
+                    {
+                        "text": "Bye!",
+                        "avg_logprob": -1.2778493881225585
+                    },
+                    {
+                        "text": "ball",
+                        "avg_logprob": -1.153275489807129
+                    },
+                    {
+                        "text": "ball",
+                        "avg_logprob": -1.153275489807129
+                    },
+                    {
+                        "text": "Bye.",
+                        "avg_logprob": -1.2592373847961427
+                    },
+                    {
+                        "text": "ball",
+                        "avg_logprob": -1.436070442199707
+                    },
+                    {
+                        "text": "bow",
+                        "avg_logprob": -1.7704811096191406
+                    },
+                    {
+                        "text": "Bye.",
+                        "avg_logprob": -1.2592373847961427
+                    },
+                    {
+                        "text": "ball",
+                        "avg_logprob": -1.153275489807129
+                    },
+                    {
+                        "text": "Boom!",
+                        "avg_logprob": -1.8510114669799804
+                    },
+                    {
+                        "text": "Bow.",
+                        "avg_logprob": -1.5006422042846679
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.422288703918457
+                    },
+                    {
+                        "text": "ball",
+                        "avg_logprob": -1.153275489807129
+                    },
+                    {
+                        "text": "ball",
+                        "avg_logprob": -1.3997067213058472
+                    },
+                    {
+                        "text": "ball",
+                        "avg_logprob": -1.4036846160888672
+                    }
+                ]
+            }
+        ]
+    },
+    "series02-s00000-Paul-1": {
+        "studentID": "series02-s00000",
+        "word": "Paul",
+        "trueLabel": "intelligible",
+        "segments": [
+            {
+                "text and avg_logprob": [
+                    {
+                        "text": "Paul!",
+                        "avg_logprob": -0.9572597503662109
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.9105659484863281
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.7637317657470704
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.7637317657470704
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.9328122138977051
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.8405234336853027
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.7268745422363281
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.9328122138977051
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.7268745422363281
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.7268745422363281
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.7268745422363281
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.052527904510498
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.7637317657470704
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.7268745422363281
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.120811939239502
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.7637317657470704
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.9105659484863281
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.7268745422363281
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.9282084465026855
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.7268745422363281
+                    }
+                ]
+            }
+        ]
+    },
+    "series02-s00008-Paul-1": {
+        "studentID": "series02-s00008",
+        "word": "Paul",
+        "trueLabel": "intelligible",
+        "segments": [
+            {
+                "text and avg_logprob": [
+                    {
+                        "text": "Power.",
+                        "avg_logprob": -1.5783561706542968
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.093532180786133
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.9640461921691894
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.9640461921691894
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.4265013694763184
+                    },
+                    {
+                        "text": "Paul!",
+                        "avg_logprob": -1.0654539108276366
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.9640461921691894
+                    },
+                    {
+                        "text": "Power.",
+                        "avg_logprob": -1.482652759552002
+                    },
+                    {
+                        "text": "Paul!",
+                        "avg_logprob": -1.0654539108276366
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.9640461921691894
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.9640461921691894
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.9640461921691894
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.093532180786133
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.9640461921691894
+                    },
+                    {
+                        "text": "Paul!",
+                        "avg_logprob": -1.0654539108276366
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.2678913116455077
+                    },
+                    {
+                        "text": "Paul!",
+                        "avg_logprob": -1.1856350898742676
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.9640461921691894
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -1.093532180786133
+                    },
+                    {
+                        "text": "Paul.",
+                        "avg_logprob": -0.9640461921691894
+                    }
+                ]
+            }
+        ]
+    },
+    "series02-s00016-Paul-1": {
+        "studentID": "series02-s00016",
+        "word": "Paul",
+        "trueLabel": "intelligible",
+        "segments": [
+            {
+                "text and avg_logprob": [
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.036352515220642
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.036352515220642
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.1671675443649292
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.1671675443649292
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.036352515220642
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.036352515220642
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.3297958374023438
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.036352515220642
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.4358887672424316
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.2964694499969482
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.036352515220642
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.3815728425979614
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.6413874626159668
+                    },
+                    {
+                        "text": "Bye!",
+                        "avg_logprob": -1.4128178596496581
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.036352515220642
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.1671675443649292
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.036352515220642
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.036352515220642
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.3815728425979614
+                    },
+                    {
+                        "text": "boy",
+                        "avg_logprob": -1.036352515220642
+                    }
+                ]
+            }
+        ]
+    },
+    "series02-s00021-Paul-0": {
+        "studentID": "series02-s00021",
+        "word": "Paul",
+        "trueLabel": "unintelligible",
+        "segments": [
+            {
+                "text and avg_logprob": [
+                    {
+                        "text": "hold.",
+                        "avg_logprob": -1.248441219329834
+                    },
+                    {
+                        "text": "hold.",
+                        "avg_logprob": -1.0248921394348145
+                    },
+                    {
+                        "text": "hold.",
+                        "avg_logprob": -1.088068962097168
+                    },
+                    {
+                        "text": "hold.",
+                        "avg_logprob": -1.4175171852111816
+                    },
+                    {
+                        "text": "hold.",
+                        "avg_logprob": -1.399753952026367
+                    },
+                    {
+                        "text": "hold.",
+                        "avg_logprob": -1.2523348808288575
+                    },
+                    {
+                        "text": "hold.",
+                        "avg_logprob": -1.1587092399597168
+                    },
+                    {
+                        "text": "hold.",
+                        "avg_logprob": -1.1886115074157715
+                    },
+                    {
+                        "text": "hold.",
+                        "avg_logprob": -1.1886115074157715
+                    },
+                    {
+                        "text": "hold.",
+                        "avg_logprob": -1.282540225982666
+                    },
+                    {
+                        "text": "hold.",
+                        "avg_logprob": -1.2388540267944337
+                    },
+                    {
+                        "text": "hold or",
+                        "avg_logprob": -1.2337528228759767
+                    },
+                    {
+                        "text": "hold.",
+                        "avg_logprob": -1.2370002746582032
+                    },
+                    {
+                        "text": "hold or",
+                        "avg_logprob": -1.6309837341308593
+                    },
+                    {
+                        "text": "hold or",
+                        "avg_logprob": -1.2337528228759767
+                    },
+                    {
+                        "text": "hold.",
+                        "avg_logprob": -1.2515830039978026
+                    },
+                    {
+                        "text": "hold.",
+                        "avg_logprob": -1.314730453491211
+                    },
+                    {
+                        "text": "hold.",
+                        "avg_logprob": -1.1116121292114258
+                    },
+                    {
+                        "text": "hold.",
+                        "avg_logprob": -1.0248921394348145
+                    },
+                    {
+                        "text": "hold or",
+                        "avg_logprob": -1.2337528228759767
+                    }
+                ]
+            }
+        ]
+    }
+}
